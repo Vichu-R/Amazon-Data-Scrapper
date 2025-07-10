@@ -1,4 +1,4 @@
-# 🛒 Amazon Product Data Scraper (No-Code Automation Tool)
+# 🛒 Amazon Product Data Scraper
 
 This project is a powerful **Amazon product data scraper** built for automation purposes using browser simulation and Excel integration.  
 It helps extract product information by providing a list of ASINs (Amazon product codes) and outputs all the data into a structured Excel file.
