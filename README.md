@@ -11,7 +11,9 @@ It helps extract product information by providing a list of ASINs (Amazon produc
 
 Amazon-Data-Scrapper/
 │
+
 ├── screenshots/ # Screenshots showing the tool in action
+
 ├── sample_input.xlsx # Excel file with ASINs to scrape
 ├── sample_output.xlsx # Final output file after scraping
 ├── LICENSE # Terms of use
