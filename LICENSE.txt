@@ -1,0 +1,6 @@
+Copyright (c) 2025 Vignesh R
+
+This project is protected. The source code is not included in this repository.
+Usage or distribution of the actual scraping logic is prohibited without permission.
+
+Only sample input/output files, screenshots, and project workflow are shared for demonstration purposes.
